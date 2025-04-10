@@ -1,0 +1,139 @@
+
+body{
+    background-color: paleturquoise;
+
+}
+.inicio{
+
+   display: flex;
+   justify-content:space-evenly;
+   background-color: pink;
+   align-items: flex-end;
+   
+
+   
+
+}
+img{
+   width: 125px ;
+
+
+ 
+}
+a{
+   text-decoration: none;
+   color: black;
+
+}
+
+   
+
+.rosas{
+   width: 200px;
+   
+}
+   
+.container {
+   padding: 20px;
+}
+
+.product-main {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-bottom: 20px;
+}
+
+.product-main img {
+   width: 300px;
+   height: 200px;
+   background: gray;
+}
+
+.product-main .info {
+   margin-left: 20px;
+}
+
+.catalog-btn {
+   background: gold;
+   padding: 10px 20px;
+   border: none;
+   border-radius: 10px;
+   cursor: pointer;
+   font-size: 16px;
+}
+
+.products {
+   display: flex;
+   justify-content: center;
+   gap: 30px;
+   padding: 30px 30px ;
+}
+
+.product-card {
+   background: rgb(207, 76, 186);
+   padding: 10px;
+   width: 150px;
+   text-align: center;
+   border-radius: 10px;
+}
+
+.product-card img {
+   width: 100%;
+   height: 100px;
+   background: rgb(255, 255, 255);
+}
+
+.price {
+   color: blue;
+}
+img{
+   margin-inline: 5%;
+}
+.cartaultima{
+   text-align: center;
+   margin: 30px;
+   width: 300px;
+   border-radius: 20px;
+   overflow: hidden;
+   box-shadow: 0px 10px 5px paleturquoise
+   font-family"Iansui", cursive;
+   text-align: center;
+   padding-left: 20px;
+}
+
+
+
+h2{
+   margin-right:13%;
+   
+
+}
+.cartaultima a{
+   text-decoration: none;
+   margin:30px ;
+}
+.cartaultima button{
+   background-color: palevioletred;
+   border-radius: 30%
+   
+}
+.cartaultima{
+   margin-left: 35%;
+}
+.cartaultima h1{
+   width: 25%;
+}
+.cartaultima img{
+   margin-inline-start: 60%;
+}
+.h1{
+text-align: center;
+}
+footer{
+   background-color: gray; 
+   padding: 1%;
+   text-align: center;
+}
+
+
